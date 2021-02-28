@@ -1,8 +1,9 @@
-## badknob dean
+## I agree, penguins are pretty cool,
 
-![alt text](16145318967074692524299154659149.jpg "Title")
+![alt IMG_20210228_211340.jpg "Title")
 
-### Dean smells
+## Think I prefer a wolf tho
+
 
 <a href="FirstPage">Another page!</a>
 <a href="markdownHelp">Markdown Help Page</a>
